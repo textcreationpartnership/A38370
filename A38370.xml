@@ -1,0 +1,415 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Angland in a ballance: or A modifyein mercuris for avoydance ofe another sanguinarie guarre, or warre and a preparative facilitation to a generally safe &amp; satisfactorie pacification. Printed 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38370</idno>
+            <idno type="STC">Wing E2933</idno>
+            <idno type="STC">ESTC R219532</idno>
+            <idno type="EEBO-CITATION">99830999</idno>
+            <idno type="PROQUEST">99830999</idno>
+            <idno type="VID">35461</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35461)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2048:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Angland in a ballance: or A modifyein mercuris for avoydance ofe another sanguinarie guarre, or warre and a preparative facilitation to a generally safe &amp; satisfactorie pacification. Printed 1648.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated on p.7: Finished Sep.27.1648.</note>
+                  <note>Caption title.</note>
+                  <note>Imperfect; cropped with some loss of text.</note>
+                  <note>Reproduction of the original in the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:35461:1"/>
+            <pb facs="tcp:35461:1" rendition="simple:additions"/>
+            <head>Angland in a Ballance: OR <hi>A Modifyein Mercurie</hi> FOR <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>voydance <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ofe another ſanguinarie guarre, or warre: AND A preparative Facilitation TO A generally ſafe &amp; ſatisfactorie Pacification.</head>
+            <q>
+               <lg>
+                  <l>Rogate quae ad'pacem ſunt Jeruſalem, <hi>&amp;c.</hi>
+                  </l>
+                  <l>Ne retineas verbum in tempore ſalutis.</l>
+               </lg> 
+               <bibl>
+                  <hi>Eccleſ. 4.</hi>
+               </bibl>
+            </q>
+            <p>Printed 1648.</p>
+            <p>I Conceive ſhalt greatly expected Treatie vulle put nour preſent ſtate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of affairs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a prudential Ballance, place in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls Presbyterians in one ſcale; one the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dents in an other to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rutinate &amp; trye quich is thel more poy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant or pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erant, ſo to diſcover quich dofe 'em ſeverally, vulle finally ſtande or falle, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Royal Partie ſtandein in a ſort, onely is ſpectators to caſte in leyr. gra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes into <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one, or thel other part dofe thel pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghts or weights, as ley vee, or ſee cauſe. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thel Independent Combination exceedes thel Presbyterian Faction, in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> graines <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> degrees, py<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>or by reaſon ley<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Arrive has almax<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or almoſt alm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:35461:2"/>or all in its power. Yet vould I not have thels Royaliſts or thel Cavallears to caſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> anie graines into thel Presbyterian ſeale, for pyr thiſt, ley vulle ſo much eleva<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> &amp; levighten thel Independent ſeale as it vulle finally redounde to thels Cavallear ſoune deſtruction in caſe thels Presbyterians prevaile pyr leyr additional conjun<g ref="char:EOLhyphen"/>ction: or at minſt &amp; at leaſt, thels Cavallears pyr leyr ſuperadditional poyſe, vull<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leaſhe or leave thel Ballance in ſilch or ſuch an <hi>equilibrie,</hi> as vulle onely ſerve <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> continue, &amp; not to compoſe nour ſanguinarie combuſtions &amp; diſnatural Debates<g ref="char:punc">▪</g> Now I perceive His Moderate Ma<hi rend="sup">tie</hi> is content to exclude thel Scots &amp; treate avi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 'em apart (as ſum moneths paſs'd I propounded to his ſerious conſideration in my<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Mercurius Moderatus</hi>) quich ſure vulle greatly facilitate his peaceable Reſtore<g ref="char:EOLhyphen"/>ment, if anithient vulle mollifie his refractorie ſubjects myndes; or if poſſiblely reconcileable one com another; quich now I really apprebende as thel greatel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> difficultie impeditive to a firmely foundationed Accommodation, ſo manie oppo<g ref="char:EOLhyphen"/>ſed Factionaries (eſpecially in Religionarie affaires) ſieing or bieing morally im<g ref="char:EOLhyphen"/>poſſibilitated to meet in one, quich in ſubſtance in my fundamental reaſon mo<g ref="char:EOLhyphen"/>vein me greatly to doubte (yet not to diſpaire) dofe a ſufficiently mutual concor<g ref="char:EOLhyphen"/>dancie. Yet if onely ſo tractable ley fere, were as everie adverſely contendei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Partie vould or would in ſum rational meaſure <hi>cede</hi> or yeelde leyr Reights, ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſam or am able to apprehende it effectible: eſpecially if ley vould almne unani<g ref="char:EOLhyphen"/>mouſly conſpite in admittein leyr Sovereigne Prince for leyr unical <hi>Vinculun Pacis,</hi> ot ultimate Umpiere, &amp; ſupreme Arbitrator. For if ley rejecte 'im, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ley <hi>liniunt abſque temperatura,</hi> ley daube ſenze morter: &amp; ſo leyr labors &amp; edifi<g ref="char:EOLhyphen"/>remain expoſed to falle pyr by everie flaſt of veind; ſo as accordein to thel judi<g ref="char:EOLhyphen"/>cious Tacitus in a ſembleable caſe, <hi>Non aliud diſcordantis Reipublica reſtabat re<g ref="char:EOLhyphen"/>medium quàm vt ab uno regeretur.</hi> For, as glorious S, <hi>Cyprian</hi> (not much diff<g ref="char:EOLhyphen"/>rently to thiſt maſme or ſame purpoſe) verſe reightly inſtructs us, <hi>
+                  <g ref="char:V">Ʋ</g>nitas ab un<g ref="char:EOLhyphen"/>conſurgit,</hi> Unitie naturally reſulteth dofe one; namely one ſupream Governo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Superior: Thiſt now tou clearly &amp; coſtly experience has doughte us, ſince <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> long as almn or all thel ſubjects continued united ſubter one Monarchic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sovereigne, &amp; affected noe new Maſters, ley paſſed in peace, plentie, &amp; quietneſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> quen as now ever ſince ſum ſtudious dofe Novelties &amp; Innovations excuſſed thi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſweet yoke dofe obedience &amp; ſubordination, ley ſuffer ſilch miſeries &amp; oppreſſi<g ref="char:EOLhyphen"/>ons as vulle yet dayly increaſe &amp; multiply into a total deſolation (ſum peu or fev<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> onely excepted quoe ſubſiſte per thel ruines dofe others) if not opportunely pre<g ref="char:EOLhyphen"/>vented, pyr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un uniforme agreement in thiſt due ſubordination quich is thel prime<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; price pally n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceſſarie Principle for Peace, let us then have thiſt, <hi>&amp; cetera om<g ref="char:EOLhyphen"/>nia adjicientur nobis,</hi> thel reſt vulle ſubſecute &amp; foloe. Contrarily, if nee wee ce<g ref="char:EOLhyphen"/>mente not thel &amp; ſtructure dofe nour ſo much labored for Pacification, per a ſub<g ref="char:EOLhyphen"/>miſſive <hi>aduinculation</hi> to nour ſupreme angular lapid or ſtone, it vulle prove no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> firmer then diſcemented bries quich let in corrupt aire dofe Differences &amp; Divi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="3" facs="tcp:35461:2" rendition="simple:additions"/>to a notable diſturbance dofe reciprocel Peace &amp; A <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>niſtie intrcene, id eſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> weene one ſubject &amp; another, in relation to l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yr common Soyereigne &amp; ſu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>me Ruler.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vould have thels Cavalleares to ciſte in for ileyr o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theyr parts a double graine <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more into thel more preponderatein ſcale for Peace. One in move in his Maje<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> alone (for thel Scots regarde not thiſt preſent Parliamental Convention) Pub<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly to declare thels Scots Rebels in caſe ley vulle not retracte leyr Armie, &amp; ceaſe to invade &amp; caterpille nour Coun tie; as formerly hee proclaimed 'em them &amp; leyr Covenant Rebellious, at leyr precedent entrance, quen invited pyr thels then Presbyterian Parliamenters. Yet let not thels Royaliſts in anie caſe ſuffer thels Levellers to caſte anie one graine into thel pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l que B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llince; for iley'r or they'l revolve &amp; ſpoyle tore, anc ſo ley vulle totully pertur bate nour paci<g ref="char:EOLhyphen"/>fyein Tractation to equalle almne to leyr ſoune or owne new phanſies, as even at thiſt preſent plainlyer than ever, appeares pyr leyr newly publiſhed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ravagant Petition preſented to thel Parliamental Aſſemblye. So for avoydance dofe per<g ref="char:EOLhyphen"/>turbation &amp; procreation dofe a new guarre or warre, &amp; tore perteinein to new Combuſtions, ſpecial care is adhibende or to bie adhibited &amp; uſed, ley meddle not in thel rule dofe nour prementioned Ballance, minſt, or leaſt ley turne tote topſie turvie.</p>
+            <p>Cavalleares I name lem, not Knights; quich appellation is now ſo odious as I vould have it for thel future totally aboliſhed, exceptein onely for Knights o'th Poſt, &amp; onely thel more glorious Tytle dofe Cavalleare uſed as more conſorant to loy altie &amp; obedience to leyr Sovereigne, quoe conferres 'em thiſt honor, not to o<g ref="char:EOLhyphen"/>thers quoe have ſo ingrately oppoſed 'im.</p>
+            <p>Another graine I vould advyſe thel Royaliſts cautiouſly to putte in thel Ballance, namely concernein Religion, in propoundein to thel Reingues or Kings Ma<g ref="char:EOLhyphen"/>jeſtie ajoynt com or with his Parliamental Commiſſioners, to eſtabliſhe a gene<g ref="char:EOLhyphen"/>ral libertie for exercyſe dofe almne conſiderable Profeſſions in Religion, even thel Papiſts Profeſſion tou; blaſphemous Hereſies only excepted. For if thiſt gracious Indult is not generally conceded &amp; granted, &amp; thel Scotch Covenant ei<g ref="char:EOLhyphen"/>ther quyte diſſolved, or greatly moderated, I profeſſe I ſam not able to conceive anie conſtant Accommodation, in regard if one onely Partie dofe ſo manie diſ<g ref="char:EOLhyphen"/>ſentein Dictamens in Religion, totally prevaile as ſuperior to almne others, thel reſt vulle remaine in continual diſcontent, anc oppoſein reluctance, ſo never re<g ref="char:EOLhyphen"/>concileable ſubter or under one onely Forme dofe Government in Religionarie affaires, as perpetually timorizein either precedently inflicted, or new infligend, and infligeable oppreſſions per thels predominant Rulers, ſo as ley vulle never deſiſte to machinate miſchieſs to thel notable perturbance dofe thel State, anc ſpi<g ref="char:EOLhyphen"/>titual anc temporal Government a joynt.</p>
+            <p>Vrue or true it is, Unitie anc Conformitie in Religion quen ſenze great incon<g ref="char:EOLhyphen"/>veniencie
+<pb n="2" facs="tcp:35461:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:35461:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:35461:4" rendition="simple:additions"/>it is poſsible to ſie or bie had, is a principal producer anc fomenter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Peace even in temporal Regimen: Yet quen ſo manie preſeminated diſcordan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Errors anc Hereſies continually pullulate, to contende for preeminencie in an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Proteſtant particular or ſingle Profeſsion more than in another, is to ſake or make an overture to perpetual diſſentions.</p>
+            <p>To quich incommoditie one M. <hi>Farrar,</hi> (quoſe Propoſitions for Peace an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Safety. fare or are more rational anc tractable then any I have yet viewed or per<g ref="char:EOLhyphen"/>uſed,) verie prudently alludein, judiciouſly, &amp; conſiderately affirmes; <hi>A happy ſet<g ref="char:EOLhyphen"/>tlement vulle or Wille never be in thist Kingdome, unleſs great care be had ofe tende<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conſciences, ſo numerous they are ſo juſt theyr pretence, &amp;c.</hi> Out of quich numbe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as I probablely collect pyr ſum other his paſſages, he vould not have even Papiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> excepted, as reightly reflectein to thels dangerous Sequiles quich vould reſult dofe thel negation dofe ſo rational a conceſſion as in reallitie (leyr greater Anti<g ref="char:EOLhyphen"/>quitie &amp; ancient poſſiſſion peculiarly pondered,) ſilch an exception, neither po<g ref="char:EOLhyphen"/>licie, nor Religion, no nor common, or mutual humanitie vould ever approve; e<g ref="char:EOLhyphen"/>ſpecially ley havein noe longue tyme paſſed, exhibited ſo ſatislactorie aſſurance for leyr future Loyaltie an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> temporal Allegeance to thel preſent State, as fas conſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſedly pyr iloſe thoſe to quome it fas or was offered, abundantly ſufficient. To <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> confirmation dofe quich if it ſart ſie or ſhal bee requyred, ley vulle more ſover o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more over, procure leyr chief Paſtor the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Papes publique Ingagement to ſuſpende almne coactive exerciſe dofe his accuſtomed Power, inithel Reing<g ref="char:EOLhyphen"/>dome dofe Angland, quich his interpoſeive, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mediative obligement vulle even alone ſufficiently anc ſuperſufficiently aboliſhe almne ſuſpicion, anc danger dofe diſtutbance to thel publique Peace in thels Roman Profeſſors. So let 'em in rea<g ref="char:EOLhyphen"/>ſon anc Chriſtian pietie injoye ſum tolerable libertie in thel exercyſe dofe loyr Religion, at thel minſt, or at the leaſt per a favorable Compoſition as longe or as farre as leyr poore abilitie anc poſſibilitie vulle extende.</p>
+            <p>Ey ſure thel contrarie fere were great impietye in a tyme anc opportunitye, in quich it plainely appeares, in a manner almn people generally conſpyre in a rati<g ref="char:EOLhyphen"/>onally expected gracious Indult or Conceſsion dofe his moderate Majeſtye, and Parliamental concurrence for thel eaſe dofe tender Conſciences; in quich (as have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tenderly endured ſo long anc tedious moleſtations) Roman Catholiques, m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt juſtly requeſte to have leyr proportion. Conforme to quich charitable favor let one graine more ſie or bie ſuperadded to thel former, namely quat that noe Ju<g ref="char:EOLhyphen"/>raments or Oathes, or other ſilch Ingagements ſie or be inforced to anie dofe thels ſubjects conſciences, more than mearely to ſecure leyr temporal Allegeance, ſince indubiouſly thel contrarie vould greatly averte thels myndes dofe manie tender conſcientioned people derom or from almne peaceable Attonement, anc amiable R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>conciliation.</p>
+            <p>Anc I incidently obſerve as pyr iloſe ſo great anc irreconcileable difference anc
+<pb n="5" facs="tcp:35461:4" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rial Diviſio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Sects &amp; Factions in Religion ſuper comemmored no Pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtant <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>feſſer judicious anc tender dofe his eternal ſalvation is not greatly moved ei<g ref="char:EOLhyphen"/>ther to renounce or at thel minſt to doubte his Profeſſion is not ilat one Religion quich Deod as <hi>Deus pacis &amp; non diſſentionis</hi> exactes dofe us. So contrarily noe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eniated anc judicious Roman Catholique is not greatly confirmed ey an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted in his Faith and Religion quen hee contemplates thel infinit mercy dofe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>od in his deliverance dout dofe ſilch a foul chaos an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> confuſion; an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in his ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ittance for a Member dofe his ſoune quyet an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> peaceable Congregation.</p>
+            <p>Finally, let thel loyal &amp; honeſt part dofe thels Independent Combination, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch deſyre leyr Soveraignes honorous Reſtoration, put as much poyſe as ley they pleaſe into thel Royal ſcale, &amp; ſo thels Royaliſts enter in into an amiablely <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ual Conjunction, it vulle ſufficiently ſerve to recover his facred Majeſties R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yal Reights, Perſon, &amp; Honor not obſiſtein tote thel oppoſition thels other Fa<g ref="char:EOLhyphen"/>ſtions ſure able to proſecute, &amp; derom or from quome is thel Reingue or Kings Majeſtie in reaſon to exſpect his deliverance ſave onely pyr or by ilem or them qube have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m actually in leyr cuſtodie, &amp; quoe in a great meaſure poſſeſſe thel tole or whole power dofe his Reingdome, anc or and dofe his Angliſh Domi<g ref="char:EOLhyphen"/>tions; I intende &amp; meane thel Royal Independents, for thel popular or levellein I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dependents, (as clearly is diſcoverd in leyr new Petition dated <hi>Sep.</hi> 11. 1648.) have a Project to render thels Repreſentative Commons nour ſupream Gover<g ref="char:EOLhyphen"/>ners, anc to tranſverte thel accuſtomed Form dofe Regimen eſtabliſhed pyr thels anciently eſtabliſhed Lawes dofe thiſt Monarchical Realme, quich leyr Pe<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on in my dictamen is partly founded in groaſſe ignorance; partly almnſo in a licklein &amp; puriginous affect dofe noveltie, &amp; change, &amp; partly in an incapaci<g ref="char:EOLhyphen"/>tie to diſtinguiſhe original and formal Authoritie. For in reallitie ſupreame Pow<g ref="char:EOLhyphen"/>er is onely originally in thels legally eſtabliſhed Lawes quich, (as even common ſenſe ſuggeſtes) are not repealeable, ſave only pyr thel maſme Authority pyr quich ley fere or were inacted, ſo ley ſare not annulleable, or changeable pyr thels Commons alone, quoe pyr lemſelps had not power derived to 'em pyr thel re<g ref="char:EOLhyphen"/>preſented Reingdome to conſtitue ſilch Lawes; mut pyr thel Reingdome, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omnes or Lords &amp; Commons a joynt, quoe in leyr ſeveral degrees concurred to I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yr eſt abliſhment. Thiſt convinces my judgment &amp; rationally moves me to eſtieme thel very foundation dofe thel prementioned Petition for erroneouſly falſe joyntly in Law and Reaſon. <hi>Cavete a ſtater a falſa.</hi> Thels Authors dofe thiſt per<g ref="char:EOLhyphen"/>niciouſly croſſe Petition &amp; falſe Baliance ſare iloſe <hi>Catabibazoniſts</hi> quich corrupt nour now favorable Conſtellation, for Union, Concord anc Peace. To quich touchein for removal dofe preſent obſtacles; peculiarly tonchein Retractations for ſangfuſions or bloodſhed, thel onely eaſie Attonement vulle proove <hi>Solomons</hi> Counſels: <hi>nec mihi nec tibi, ſed dividatur.</hi>
+            </p>
+            <p>I vould not have his Moderate Majeſtie proceede prodigally in his Condeſcen<g ref="char:EOLhyphen"/>ſions,
+<pb n="6" facs="tcp:35461:5"/>for peradventure quen iloſe quoe have 'im now in agitation anc baitein, br<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> atteined leyr deſyres, ſum others vulle ſette freſh dogs at 'im, namely thels Leve lers, or Levellein Independents.</p>
+            <p>For an ultimate concluſion, let thel City put one onely graine in thel one or o<g ref="char:EOLhyphen"/>ther ſeale, <hi>vidolicet,</hi> firmely to reſolve, never to contribute to a renewed qua<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or War, mut or but onely to an amiable pacification: For indubitablely thiſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> prove the ſtrongeſt ſtaffe to beat thels refractorie Factions into a peaceable Accommodation. Let us thens diligently applye nour maxt or moſt humb<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Petitions anc Supplications to thel divine Majeſtie, as to thel pryme Motor a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Moderater dofe almne, ſo to mollifye, directe, &amp; guide thels myndes &amp; intention dofe thels Tractators, &amp; Tranſactors, to applyc leyr extreameſt indevors, &amp; for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for every part &amp; partie in thels Subjects to receive a ſatisfactorie content &amp; con<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fort. For conſecution dofe quich ſpecial Benediction &amp; gracious favor, let us it ſtantiouſly ſollicite, &amp; daily ſupplicate for a legal &amp; uniforme Procedure in th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> &amp; almne other future Parliaments, for nour gracious Soveraigne, his Royal Con<g ref="char:EOLhyphen"/>ſort, &amp; Iſſues honorous Reſtorement to leyr precedently injoyed Eſtates &amp; Con<g ref="char:EOLhyphen"/>ditions, Parliament and People to leyr formerly accuſtomed Priviledges &amp;c. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thel prenamed Gentlehamn M. <hi>Farrar</hi> in his Propoſitions for Peace &amp; Safeti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> verie piouſly &amp; rationouſly ſuggeſtes touchein thiſt &amp; divers other particular<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Onely I marvelle he is ſo confident in affirmein or ſuppoſein an other new Parli<g ref="char:EOLhyphen"/>ament vulle not have Power to annulle thels decrees inacted in thiſt preſent Par<g ref="char:EOLhyphen"/>liamentatie Aſſemblye, ſince in my Dictamen, noe Juraments, Oathes, or any o<g ref="char:EOLhyphen"/>ther Ingagements have force to oblige in thiſt nature any other ſuture legally pro<g ref="char:EOLhyphen"/>credein Parliaments quich vulle conteine other new Members, nor fare or are ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in exiſtence or eſſence.</p>
+            <p>One I cognoſce, &amp; perfectly knoe, quome I refuſe to nominate, quoe if in caſe hee had thel Ballance in his rule anc guidance, hee vould ſo moderately order thels ſcales dofe affaires as vould infalliblely render thels Subjects felicious &amp; happie in leyr temporal conditions &amp; eſtates. He vould ſo equally ballance &amp; ponderate thels ſeverally diſſentein Parties cauſes (prudently ponderein 'em as equally diſ<g ref="char:EOLhyphen"/>puteable at thel minſt,) as in reaſon &amp; equitie to reſtore everie one leyr formerly injoyed eſtates &amp; conditions, not onely iloſe Nobles &amp; Cavalieares quich have conſtantly aſſiſted 'im, mut even thels marritated Epiſcops or Biſhops for thel Antiquitie dofe l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yr name, &amp; ſuccedein Poſteritie, reſtorein lem to leyr Revenues &amp; Dignities (at thel minſt) in iloſe Cities &amp; Dioces quich deſyre to have lem reſtored. For not obſiſtein ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch Matrimonial Prelates <hi>filios facientes</hi> fere never ad<g ref="char:EOLhyphen"/>mitted either in the <hi>Latin</hi> or <hi>Grecian,</hi> Eccleſie or Eclirch; yet ſurely thiſt mode<g ref="char:EOLhyphen"/>rate indifferencie or attonement, vould procreate a more general content &amp; union in thels Subjects myndes, quich is principally intended &amp; labored for in thiſt nour preſent pacifyein Tractation. — In thel interim, His Majeſtie &amp; his Cavaleares
+<pb n="7" facs="tcp:35461:5" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ein licenc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to playe for quortie or fourtie dayes at thel minſt, I adviſe lem in c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rity to forfeit no tyme, for thiſt is leyr vacation an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thel anth or year dofe Jubi<g ref="char:EOLhyphen"/>lye. — Onely if leyr recreations vulle permitte, let lem caſt thiſt one other graine more into thel Royal ſcale, namely quat or that thel Reingues Majeſtie had an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> injoyes his ſupream Power anc Monarchical Crown per a longue ſucceſſion an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> here ditarie Reight either founded in a Conqueſt, or in ſome other iuſt Tytle, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nor, per Election, or Donation dofe thel common people, ſo as thels Level<g ref="char:EOLhyphen"/>lers quoe attempte to transferre thiſt his ſupream Power to thels Commons in or out doſe Parliament greatly abuſe thels ignorant Subjects, ey an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> joyntly perjure lemſelps in violatein leyr Jurament, or oath of Allegeance, quich ley doube or owe to leyr preſent Sovereinge. Nor yet vulle thels Commons afforde lem more ſe<g ref="char:EOLhyphen"/>curitie for leyr Indemnitie, (as ley erroneouſly imagine,) than his ſacred Majeſtie, nor yet ſo much, ſince thels Commons vulle ever remaine queſtionable for leyr newely aſſumed ſupremacie, per or by ilat maſme or ſame Authoritie quich fas or was ever precedently ſupreme; ſo as ley they vulle remaine neceſſitated to mainteine a perpetual Armie at thel Citie anc Countries charge for leyr defence, quich vulle totally diſquiet anc depauperate thel Reingdome an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vulle ſerve onely for one Proteſtant co-ſubject diſnaturally to murther an other even conforme to leyr ſoune ſolemn Vow an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Covenant. So adieu thel Clorie dofe Angland for ever, if nour Treaters anc Tranſacters ſo dexterouſly rule not its Ballance as to produce a tractable Accomodation.</p>
+            <closer>
+               <dateline>
+                  <hi>Finiſhed</hi> 
+                  <date>
+                     <hi>Sep.</hi> 27. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
